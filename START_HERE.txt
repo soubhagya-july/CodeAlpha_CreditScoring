@@ -1,0 +1,10 @@
+1. Extract this ZIP file.
+2. Open the CodeAlpha_CreditScoring folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Run: python -m venv .venv
+5. Run: .venv\\Scripts\\Activate.ps1
+6. Run: pip install -r requirements.txt
+7. Run: python main.py
+8. Run: python predict.py
+
+This is an educational synthetic-data demo only, not for real credit decisions.

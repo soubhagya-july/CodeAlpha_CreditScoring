@@ -1,0 +1,1 @@
+credit_data.csv is generated automatically when you run python main.py.\n
